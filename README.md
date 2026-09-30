@@ -24,7 +24,7 @@ My main interests include **business analytics, customer behavior, KPI reporting
 
 📍 **Baku, Azerbaijan**  
 🌍 Open to **remote and international opportunities**  
-💬 Azerbaijani · English
+💬 Azerbaijani · English · German
 
 ---
 
