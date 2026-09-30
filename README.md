@@ -1,107 +1,123 @@
+<div align="center">
+
 # Mayil Huseynov
 
-Junior Data Analyst**
+### Operations Coordinator @ Aceolution · Junior Data Analyst
 
-I work at the intersection of operations and data, with a focus on turning raw datasets into clear, practical insights.  
-My current work and portfolio are centered around **SQL, Python, Excel, Tableau, and Power BI**, with growing interest in analytics engineering and applied data science.
+*Turning operational data into clearer decisions, useful dashboards, and measurable insights.*
 
-[![GitHub](https://img.shields.io/badge/GitHub-mayil--huseynov-181717?style=flat&logo=github)](https://github.com/mayil-huseynov)
-[![Tableau](https://img.shields.io/badge/Tableau-Public-E97627?style=flat&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mayil.huseynov)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mayil%20Huseynov-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayil-huseynov/)
+[![Tableau Public](https://img.shields.io/badge/Tableau-Public-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mayil.huseynov)
+[![GitHub](https://img.shields.io/badge/GitHub-mayil--huseynov-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayil-huseynov)
 
----
-
-## About me
-
-- Based in Baku, Azerbaijan
-- Background in Mechatronics and Robotics Engineering
-- Currently working in operations while building a stronger analytics portfolio
-- Interested in customer analytics, business intelligence, SQL analysis, dashboards, and data-driven decision making
-- Open to junior data analytics opportunities, especially remote and international roles
+</div>
 
 ---
 
-## Selected projects
+## 👋 About me
 
-### Telco Customer Churn Analytics
-Interactive Tableau dashboard focused on churn drivers, customer risk segments, revenue exposure, and retention recommendations.
+I'm a **Junior Data Analyst** with a background in **Mechatronics and Robotics Engineering**, currently working in operations while continuing to strengthen my analytics skill set.
 
-**Tools:** Tableau, calculated fields, filters, customer segmentation  
-**Highlights:** 7,043 customers, 26.5% overall churn rate, top-risk segment analysis
+I enjoy working with data when there is a clear question behind it — understanding **what happened, why it happened, and how the result can support a better decision**.
 
-[View Tableau Dashboard](https://public.tableau.com/app/profile/mayil.huseynov/viz/TelcoCustomerChurnDashboardFinal/Overview)
+My main interests include **business analytics, customer behavior, KPI reporting, dashboard design, SQL analysis, segmentation, and data-driven decision making**.
 
-### UK Road Safety 2025
-SQL analysis of UK road collision, vehicle, and casualty data with a focus on collision timing, road conditions, severity, and risk patterns.
-
-**Tools:** MySQL, SQL, exploratory analysis
-
-### Brazilian E-Commerce Cohort Retention
-Monthly cohort retention analysis using Olist e-commerce data.
-
-**Tools:** MySQL, SQL, Python, pandas, matplotlib  
-**Focus:** first-purchase cohorts, retention matrix, retention curve, repeat-purchase behavior
-
-### NYC Tree Census
-Tableau project exploring tree distribution, neighborhood patterns, and environmental equity.
-
-**Tools:** Tableau, large-scale public dataset analysis
+📍 **Baku, Azerbaijan**  
+🌍 Open to **remote and international opportunities**  
+💬 Azerbaijani · English
 
 ---
 
-## Tech stack
+## 🧰 Tech stack
 
-**Languages & Querying**  
-`Python` `SQL`
+<div align="center">
 
-**Analytics & BI**  
-`Excel` `Tableau` `Power BI`
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode" />
 
-**Python Libraries**  
-`pandas` `NumPy` `Matplotlib` `scikit-learn`
+<br><br>
 
-**Databases & Tools**  
-`MySQL` `Git` `GitHub` `JupyterLab` `VS Code`
+<img src="https://img.shields.io/badge/SQL-Analytics-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
 
----
+<br><br>
 
-## What I focus on
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 
-I prefer projects where the analysis answers a concrete business question rather than stopping at charts or code.
-
-Typical workflow:
-
-`Data Cleaning → Exploration → SQL / Python Analysis → Visualization → Business Insight`
-
-I am especially interested in:
-
-- customer and retention analytics
-- KPI reporting and dashboard design
-- SQL-based business analysis
-- exploratory data analysis
-- segmentation and cohort analysis
-- practical machine learning applications
+</div>
 
 ---
 
-## Currently developing
+## 📊 How I approach analytics
 
-I am continuing to strengthen my skills in:
+I prefer an end-to-end workflow where the analysis leads to something useful, not just a finished chart.
 
-- advanced SQL patterns
-- dashboard storytelling
-- Power BI and Tableau
+```text
+Raw Data
+   ↓
+Cleaning & Validation
+   ↓
+SQL / Python Analysis
+   ↓
+Visualization
+   ↓
+Business Insight
+```
+
+For me, a strong analysis should be:
+
+- technically correct
+- easy to explain
+- visually clear
+- connected to a real business question
+- useful for decision-making
+
+---
+
+## 🔎 What I focus on
+
+- SQL for business analysis
+- Data cleaning and exploratory analysis
+- KPI design and reporting
+- Tableau and Power BI dashboards
+- Customer and retention analytics
+- Cohort and segmentation analysis
 - Python for analytics
-- machine learning fundamentals
-- end-to-end portfolio projects
+- Applied machine learning fundamentals
+- Translating technical findings into clear business language
 
 ---
 
-## Connect
+## 🌱 Currently developing
 
-- **GitHub:** [mayil-huseynov](https://github.com/mayil-huseynov)
-- **Tableau Public:** [mayil.huseynov](https://public.tableau.com/app/profile/mayil.huseynov)
-- **LinkedIn:** https://www.linkedin.com/in/mayil-huseynov/
+I'm continuously improving my skills in:
+
+`Advanced SQL` · `Dashboard Storytelling` · `Python` · `Statistics` · `Machine Learning` · `Business Analytics`
+
+I am especially interested in becoming stronger at taking a project from **raw data → structured analysis → polished dashboard → practical recommendation**.
 
 ---
 
-> Building a portfolio around practical analytics, clear communication, and business-focused problem solving.
+## 🤝 Let's connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayil-huseynov/)
+[![Tableau](https://img.shields.io/badge/Tableau-View%20Profile-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/mayil.huseynov)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mayil-huseynov)
+
+</div>
+
+---
+
+<div align="center">
+
+### Data is most useful when it tells a story someone can act on.
+
+</div>
