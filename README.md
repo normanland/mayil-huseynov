@@ -96,14 +96,6 @@ I am continuing to strengthen my skills in:
 
 ---
 
-## GitHub activity
-
-![Mayil's GitHub stats](https://github-readme-stats.vercel.app/api?username=mayil-huseynov&show_icons=true&hide_title=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mayil-huseynov&layout=compact&hide_border=true)
-
----
-
 ## Connect
 
 - **GitHub:** [mayil-huseynov](https://github.com/mayil-huseynov)
